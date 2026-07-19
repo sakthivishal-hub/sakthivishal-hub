@@ -1,15 +1,14 @@
 # Hi 👋, I'm Sakthi Vishal
 
-### 🚀 AI & Data Science Engineer | Python Developer | Machine Learning Enthusiast
+###  AI & Data Science Engineer | Python Developer | Machine Learning Obsessist!
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Things About Me 
 
 - 🎓 AI & Data Science Engineering Student
 - 🌱 Currently learning Data Structures & Algorithms
 - 🤖 Exploring Machine Learning and Artificial Intelligence
-- 📊 Interested in Data Science and Data Analytics
 - 💻 Passionate about solving coding problems
 - 🎯 Goal: Become a Machine Learning Engineer
 
@@ -21,6 +20,7 @@
 - 🐍 Python
 - 💻 C
 - 🗄️ SQL
+- 🌱 MongoDB
 
 ### Tools & Technologies
 - Git

@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Sakthi Vishal
 
-<!--
-**sakthivishal-hub/sakthivishal-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 AI & Data Science Engineer | Python Developer | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 AI & Data Science Engineering Student
+- 🌱 Currently learning Data Structures & Algorithms
+- 🤖 Exploring Machine Learning and Artificial Intelligence
+- 📊 Interested in Data Science and Data Analytics
+- 💻 Passionate about solving coding problems
+- 🎯 Goal: Become a Machine Learning Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+- 🐍 Python
+- 💻 C
+- 🗄️ SQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+### Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sakthivishal-in
+- 💻 LeetCode: https://leetcode.com/u/sakkthivishal-leetcode/
+- 🍽️ CodeChef: https://www.codechef.com/users/tsv_codechef
+
+---
+
+## 📈 Current Focus
+
+- 📚 Mastering Data Structures & Algorithms
+- 🤖 Building Machine Learning Projects
+- 💼 Preparing for Software & ML Engineering Roles
+- 🚀 Contributing to Open Source
+
+---
+
+⭐ Thanks for visiting my profile!

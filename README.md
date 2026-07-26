@@ -38,9 +38,9 @@
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sakthivishal-in
-- 💻 LeetCode: https://leetcode.com/u/sakkthivishal-leetcode/
-- 🍽️ CodeChef: https://www.codechef.com/users/tsv_codechef
+- 💼 LinkedIn:  www.linkedin.com/in/sakthivishal-thilagaraj-827302416
+- 💻 LeetCode:  https://leetcode.com/u/sakthivishal-leetcode/
+- 🍽️ CodeChef:  https://www.codechef.com/users/tsv_codechef
 
 ---
 
